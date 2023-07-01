@@ -22,7 +22,7 @@ Catalogs -> Add an OPDS Feed
 Link填写`https://opds.wol.moe/zh_CN`或`https://opds.wol.moe/zh_TW`
 
 ### Aldkio
-没有iOS设备，不熟。
+底栏书店 右上角添加
 
 ## FAQ
 ### 下载EPUB时报错/返回代码202
