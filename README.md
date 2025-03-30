@@ -7,6 +7,8 @@
 
 繁体中文: `https://opds.wol.moe/zh_TW`
 
+反馈群组：https://t.me/wenku8_opds
+
 推荐使用 [静读天下](https://www.moondownload.com/chinese.html)（Android）/ [Thorium Reader](https://www.edrlab.org/software/thorium-reader/)（Windows/MacOS/Linux）/ [Aldkio](https://testflight.apple.com/join/2aHDilzl) （iOS）访问本服务
 </div>
 
