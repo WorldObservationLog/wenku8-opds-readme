@@ -1,7 +1,7 @@
 <div align="center">
 
 # wenku8-opds
-为轻小说文库（wenku8.com）提供OPDS书源与EPUB生成服务
+为轻小说文库（wenku8.com）提供OPDS书源与EPUB生成服务，由 [WorldObservationLog/pywenku8api](https://github.com/WorldObservationLog/pywenku8api) 驱动
 
 简体中文：`https://opds.wol.moe/zh_CN`
 
